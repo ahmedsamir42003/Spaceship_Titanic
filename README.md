@@ -10,8 +10,8 @@ In the year 2912, the Spaceship Titanic encountered a spacetime anomaly while on
 
 * sample_submission.csv: This file is a sample submission template provided by the competition organizers. It showcases the required format for submitting predictions.
 
-* submission.csv: Our final submission file containing the predicted home prices for the test dataset.
+* submission.csv: Our final submission file.
 
 * test.csv: The test dataset provided by the competition, which we used to make predictions.
 
-* train.csv: The training dataset provided by the competition, which we used to train our regression models.
+* train.csv: The training dataset provided by the competition, which we used to train our classification models.
